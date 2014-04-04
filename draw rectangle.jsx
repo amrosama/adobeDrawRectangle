@@ -13,7 +13,7 @@ function main(){
    drawRectangle();
     return;
     }
-//--------------------------------------
+//--------------------------------------testing
   function drawRectangle(){
       //sp[ ] : path items
       var sp = [];
